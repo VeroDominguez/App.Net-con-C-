@@ -1,0 +1,216 @@
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\bin\Debug\net7.0\IUConsola.exe
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\bin\Debug\net7.0\IUConsola.deps.json
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\bin\Debug\net7.0\IUConsola.runtimeconfig.json
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\bin\Debug\net7.0\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\bin\Debug\net7.0\IUConsola.pdb
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\bin\Debug\net7.0\Dominio.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\bin\Debug\net7.0\Dominio.pdb
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\obj\Debug\net7.0\IUConsola.csproj.AssemblyReference.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\obj\Debug\net7.0\IUConsola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfoInputs.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfo.cs
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CoreCompileInputs.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CopyComplete
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\obj\Debug\net7.0\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\obj\Debug\net7.0\refint\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\obj\Debug\net7.0\IUConsola.pdb
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\obj\Debug\net7.0\IUConsola.genruntimeconfig.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 i\IUConsola\obj\Debug\net7.0\ref\IUConsola.dll
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\bin\Debug\net7.0\IUConsola.exe
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\bin\Debug\net7.0\IUConsola.deps.json
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\bin\Debug\net7.0\IUConsola.runtimeconfig.json
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\bin\Debug\net7.0\IUConsola.dll
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\bin\Debug\net7.0\IUConsola.pdb
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\bin\Debug\net7.0\Dominio.dll
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\obj\Debug\net7.0\IUConsola.csproj.AssemblyReference.cache
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\obj\Debug\net7.0\IUConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfoInputs.cache
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfo.cs
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CopyComplete
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\obj\Debug\net7.0\IUConsola.dll
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\obj\Debug\net7.0\refint\IUConsola.dll
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\obj\Debug\net7.0\IUConsola.pdb
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\obj\Debug\net7.0\IUConsola.genruntimeconfig.cache
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 j\IUConsola\obj\Debug\net7.0\ref\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\bin\Debug\net7.0\IUConsola.exe
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\bin\Debug\net7.0\IUConsola.deps.json
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\bin\Debug\net7.0\IUConsola.runtimeconfig.json
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\bin\Debug\net7.0\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\bin\Debug\net7.0\IUConsola.pdb
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\bin\Debug\net7.0\Dominio.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\bin\Debug\net7.0\Dominio.pdb
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\obj\Debug\net7.0\IUConsola.csproj.AssemblyReference.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\obj\Debug\net7.0\IUConsola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfoInputs.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfo.cs
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CoreCompileInputs.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CopyComplete
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\obj\Debug\net7.0\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\obj\Debug\net7.0\refint\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\obj\Debug\net7.0\IUConsola.pdb
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\obj\Debug\net7.0\IUConsola.genruntimeconfig.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 k\IUConsola\obj\Debug\net7.0\ref\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\bin\Debug\net7.0\IUConsola.exe
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\bin\Debug\net7.0\IUConsola.deps.json
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\bin\Debug\net7.0\IUConsola.runtimeconfig.json
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\bin\Debug\net7.0\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\bin\Debug\net7.0\IUConsola.pdb
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\bin\Debug\net7.0\Dominio.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\bin\Debug\net7.0\Dominio.pdb
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.csproj.AssemblyReference.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfoInputs.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfo.cs
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CoreCompileInputs.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CopyComplete
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\refint\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.pdb
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.genruntimeconfig.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\ref\IUConsola.dll
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\bin\Debug\net7.0\IUConsola.exe
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\bin\Debug\net7.0\IUConsola.deps.json
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\bin\Debug\net7.0\IUConsola.runtimeconfig.json
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\bin\Debug\net7.0\IUConsola.dll
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\bin\Debug\net7.0\IUConsola.pdb
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\bin\Debug\net7.0\Dominio.dll
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.csproj.AssemblyReference.cache
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfoInputs.cache
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfo.cs
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CopyComplete
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.dll
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\refint\IUConsola.dll
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.pdb
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\IUConsola.genruntimeconfig.cache
+C:\Users\Usuario\Favorites\Desktop\Obligatorio1 Diaz_Dominguez P2 l\IUConsola\obj\Debug\net7.0\ref\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\bin\Debug\net7.0\IUConsola.exe
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\bin\Debug\net7.0\IUConsola.deps.json
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\bin\Debug\net7.0\IUConsola.runtimeconfig.json
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\bin\Debug\net7.0\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\bin\Debug\net7.0\IUConsola.pdb
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\bin\Debug\net7.0\Dominio.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\bin\Debug\net7.0\Dominio.pdb
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\obj\Debug\net7.0\IUConsola.csproj.AssemblyReference.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\obj\Debug\net7.0\IUConsola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfoInputs.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfo.cs
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CoreCompileInputs.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CopyComplete
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\obj\Debug\net7.0\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\obj\Debug\net7.0\refint\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\obj\Debug\net7.0\IUConsola.pdb
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\obj\Debug\net7.0\IUConsola.genruntimeconfig.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio1 Diaz_Dominguez P2 m\IUConsola\obj\Debug\net7.0\ref\IUConsola.dll
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\obj\Debug\net7.0\IUConsola.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\obj\Debug\net7.0\IUConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\obj\Debug\net7.0\IUConsola.dll
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\obj\Debug\net7.0\refint\IUConsola.dll
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\obj\Debug\net7.0\IUConsola.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\bin\Debug\net7.0\IUConsola.exe
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\bin\Debug\net7.0\IUConsola.deps.json
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\bin\Debug\net7.0\IUConsola.runtimeconfig.json
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\bin\Debug\net7.0\IUConsola.dll
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\bin\Debug\net7.0\IUConsola.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\bin\Debug\net7.0\Dominio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CopyComplete
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\obj\Debug\net7.0\IUConsola.genruntimeconfig.cache
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 n\IUConsola\obj\Debug\net7.0\ref\IUConsola.dll
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\bin\Debug\net7.0\IUConsola.exe
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\bin\Debug\net7.0\IUConsola.deps.json
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\bin\Debug\net7.0\IUConsola.runtimeconfig.json
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\bin\Debug\net7.0\IUConsola.dll
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\bin\Debug\net7.0\IUConsola.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\bin\Debug\net7.0\Dominio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\obj\Debug\net7.0\IUConsola.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\obj\Debug\net7.0\IUConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CopyComplete
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\obj\Debug\net7.0\IUConsola.dll
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\obj\Debug\net7.0\refint\IUConsola.dll
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\obj\Debug\net7.0\IUConsola.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\obj\Debug\net7.0\IUConsola.genruntimeconfig.cache
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 ñ\IUConsola\obj\Debug\net7.0\ref\IUConsola.dll
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\bin\Debug\net7.0\IUConsola.exe
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\bin\Debug\net7.0\IUConsola.deps.json
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\bin\Debug\net7.0\IUConsola.runtimeconfig.json
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\bin\Debug\net7.0\IUConsola.dll
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\bin\Debug\net7.0\IUConsola.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\bin\Debug\net7.0\Dominio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\obj\Debug\net7.0\IUConsola.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\obj\Debug\net7.0\IUConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CopyComplete
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\obj\Debug\net7.0\IUConsola.dll
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\obj\Debug\net7.0\refint\IUConsola.dll
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\obj\Debug\net7.0\IUConsola.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\obj\Debug\net7.0\IUConsola.genruntimeconfig.cache
+C:\Users\alumnoFI\Desktop\Obligatorio1 Diaz_Dominguez P2 o\IUConsola\obj\Debug\net7.0\ref\IUConsola.dll
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\bin\Debug\net7.0\IUConsola.exe
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\bin\Debug\net7.0\IUConsola.deps.json
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\bin\Debug\net7.0\IUConsola.runtimeconfig.json
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\bin\Debug\net7.0\IUConsola.dll
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\bin\Debug\net7.0\IUConsola.pdb
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\bin\Debug\net7.0\Dominio.dll
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\obj\Debug\net7.0\IUConsola.csproj.AssemblyReference.cache
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\obj\Debug\net7.0\IUConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfoInputs.cache
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfo.cs
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CopyComplete
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\obj\Debug\net7.0\IUConsola.dll
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\obj\Debug\net7.0\refint\IUConsola.dll
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\obj\Debug\net7.0\IUConsola.pdb
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\obj\Debug\net7.0\IUConsola.genruntimeconfig.cache
+C:\Users\alumnoFI.FACULTADES\Desktop\Obligatorio1 Diaz_Dominguez P2 p\IUConsola\obj\Debug\net7.0\ref\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\bin\Debug\net7.0\IUConsola.exe
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\bin\Debug\net7.0\IUConsola.deps.json
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\bin\Debug\net7.0\IUConsola.runtimeconfig.json
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\bin\Debug\net7.0\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\bin\Debug\net7.0\IUConsola.pdb
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\bin\Debug\net7.0\Dominio.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\bin\Debug\net7.0\Dominio.pdb
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.csproj.AssemblyReference.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfoInputs.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfo.cs
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CoreCompileInputs.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CopyComplete
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\refint\IUConsola.dll
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.pdb
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.genruntimeconfig.cache
+D:\Vero\ORT Vero\Semestre 2\Programación 2\Obligatorio\Diaz-Dominguez-Obligatorio1-P2\Obligatorio1-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\ref\IUConsola.dll
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\bin\Debug\net7.0\IUConsola.exe
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\bin\Debug\net7.0\IUConsola.deps.json
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\bin\Debug\net7.0\IUConsola.runtimeconfig.json
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\bin\Debug\net7.0\IUConsola.dll
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\bin\Debug\net7.0\IUConsola.pdb
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\bin\Debug\net7.0\Dominio.dll
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.csproj.AssemblyReference.cache
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfoInputs.cache
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.AssemblyInfo.cs
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.csproj.CopyComplete
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.dll
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\refint\IUConsola.dll
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.pdb
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\IUConsola.genruntimeconfig.cache
+C:\Users\Usuario\Favorites\Desktop\Obligatorio2E-P2- Diaz_Dominguez\IUConsola\obj\Debug\net7.0\ref\IUConsola.dll

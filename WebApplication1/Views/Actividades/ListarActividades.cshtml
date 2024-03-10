@@ -1,0 +1,59 @@
+﻿@using Dominio.Models
+
+@{
+    ViewData["Title"] = "ListarActividades";
+}
+
+<form action="~/Actividades/ListarActividadesSegunFecha">
+    <label for="idFecha">Buscar actividad por fecha:</label>
+    <input id="idFecha" type="date" placeholder="Seleccione una fecha" name="fechaDada" />
+    <button class="btn btn-secondary" type="submit">Enviar</button>
+</form>
+<br />
+
+<h1>Listar Actividades</h1>
+
+@if (ViewBag.Mensaje != null)
+{
+    <div class="alert alert-danger">@ViewBag.Mensaje</div>
+}
+else if (ViewBag.Actividades == null || ViewBag.Actividades.Count == 0)
+{
+    <div class="alert alert-danger">No se encontraron actividades para esa fecha</div>
+}
+else
+{
+    <table class="table table-striped">
+        <tr>
+            <th>Nombre</th>
+            <th>Descripción</th>
+            <th>Fecha</th>
+            <th></th>
+        </tr>
+        @foreach (Actividad a in ViewBag.Actividades)
+        {
+            <tr>
+                <td>@a.Nombre</td>
+                <td>@a.Descripcion</td>
+                <td>@a.Fecha.ToShortDateString()</td>
+
+                @if (Context.Session.GetString("LogueadoTipo") != null && Context.Session.GetString("LogueadoTipo") == "Huesped")
+                {
+                    <td>@Html.ActionLink("Agendar", "Agendar", "Agenda", new {id = a.Id})</td>
+                }
+                else if (Context.Session.GetString("LogueadoTipo") == null)
+                {
+                    <td>@Html.ActionLink("Agendar", "Login", "Usuario", new {id = a.Id})</td>
+                }
+                else
+                {
+                    <td>No habilitado</td>
+                }
+
+
+
+
+            </tr>
+        }
+    </table>
+}

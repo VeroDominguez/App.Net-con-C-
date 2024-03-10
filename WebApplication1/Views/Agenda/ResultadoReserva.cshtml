@@ -1,0 +1,29 @@
+﻿@using Dominio.Models;
+@{
+    ViewData["Title"] = "ResultadoReserva";
+}
+
+<h1>Resultado Reserva</h1>
+<br />
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+else if (ViewBag.Reserva != null)
+{
+    <h3>Agenda exitosa</h3>
+
+    Reserva r = ViewBag.Reserva;
+    <p>Nombre huespued: @r.Huesped.Nombre @r.Huesped.Apellido</p>
+    <p>Nombre actividad: @r.Actividad.Nombre</p>
+    <p>Fecha actividad: @r.Actividad.Fecha.ToShortDateString()</p>
+    <p>@r.Actividad.MostrarLugarOProveedor()</p>
+    <p>Costo final: @r.Actividad.CalcularCostoFinal(r.Huesped) dólares</p>
+    <p>Estado: @r.EstadoReserva</p>
+
+}
+else
+{
+    <div>Ocurrió un error</div>
+}

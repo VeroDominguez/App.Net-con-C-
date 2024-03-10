@@ -1,0 +1,17 @@
+﻿@using Dominio.Models
+@model List<Dominio.Models.Proveedor>
+
+
+
+<h1>Lista de Proveedores</h1>
+
+<p>@TempData["msgDescuentoAsignado"]</p>
+<table class="table">
+    <tr><th>Nombre</th><th>Teléfono</th><th>Dirección</th><th>Descuento</th></tr>
+
+    @foreach (Proveedor p in Model)
+    {
+        <tr><td>@p.Nombre</td><td>@p.Telefono</td><td>@p.Direccion</td><td>@p.ValorDescuento %</td><td>@Html.ActionLink("Asignar Descuento", "Edit", "Proveedor", new {id = p.Id})</td></tr>
+    }
+</table>
+

@@ -1,0 +1,12 @@
+D:\Vero\ORT Vero\Obligatorio2-P2- Diaz_Dominguez-Subir\Dominio\bin\Release\net7.0\Dominio.deps.json
+D:\Vero\ORT Vero\Obligatorio2-P2- Diaz_Dominguez-Subir\Dominio\bin\Release\net7.0\Dominio.dll
+D:\Vero\ORT Vero\Obligatorio2-P2- Diaz_Dominguez-Subir\Dominio\bin\Release\net7.0\Dominio.pdb
+D:\Vero\ORT Vero\Obligatorio2-P2- Diaz_Dominguez-Subir\Dominio\obj\Release\net7.0\Dominio.csproj.AssemblyReference.cache
+D:\Vero\ORT Vero\Obligatorio2-P2- Diaz_Dominguez-Subir\Dominio\obj\Release\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vero\ORT Vero\Obligatorio2-P2- Diaz_Dominguez-Subir\Dominio\obj\Release\net7.0\Dominio.AssemblyInfoInputs.cache
+D:\Vero\ORT Vero\Obligatorio2-P2- Diaz_Dominguez-Subir\Dominio\obj\Release\net7.0\Dominio.AssemblyInfo.cs
+D:\Vero\ORT Vero\Obligatorio2-P2- Diaz_Dominguez-Subir\Dominio\obj\Release\net7.0\Dominio.csproj.CoreCompileInputs.cache
+D:\Vero\ORT Vero\Obligatorio2-P2- Diaz_Dominguez-Subir\Dominio\obj\Release\net7.0\Dominio.dll
+D:\Vero\ORT Vero\Obligatorio2-P2- Diaz_Dominguez-Subir\Dominio\obj\Release\net7.0\refint\Dominio.dll
+D:\Vero\ORT Vero\Obligatorio2-P2- Diaz_Dominguez-Subir\Dominio\obj\Release\net7.0\Dominio.pdb
+D:\Vero\ORT Vero\Obligatorio2-P2- Diaz_Dominguez-Subir\Dominio\obj\Release\net7.0\ref\Dominio.dll

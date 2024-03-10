@@ -1,0 +1,74 @@
+﻿@using Dominio.Models;
+@model List<Dominio.Models.Reserva>
+
+<h1>Mis Agendas</h1>
+
+@if (ViewBag.Msg != null)
+{
+    <p>@ViewBag.Msg</p>
+}
+
+
+<table class="table">
+    <tr>
+        <th>Nombre Huésped</th>
+        <th>Nombre Actividad</th>
+        <th>Fecha de la actividad</th>
+        <th>Lugar</th>
+        <th>Costo final</th>
+        <th>Nombre Proveedor</th>
+        <th>Fecha de la agenda</th>
+        <th>Estado de la agenda</th>
+        <th>---</th>
+    </tr>
+
+
+    @foreach (Reserva r in Model)
+    {
+        <tr>
+            <td>@r.Huesped.Nombre @r.Huesped.Apellido</td>
+            <td>@r.Actividad.Nombre</td>
+            <td>@r.Actividad.Fecha.ToShortDateString()</td>
+
+
+            @if (r.Actividad.GetTipo() == "OrgHostal")
+            {
+                <td>@r.Actividad.MostrarLugarOProveedor()</td>
+
+                @if (r.CostoFinal == 0)
+                {
+                    <td>Actividad Gratuita</td>
+                }
+                else
+                {
+                    <td>@r.Actividad.CalcularCostoFinal(r.Huesped) dólares</td>
+                }
+
+                <td>---</td>
+                <td>@r.FechaReserva</td>
+                <td>@r.EstadoReserva</td>
+
+            }
+            else
+            {
+                <td>---</td>
+
+                @if (r.Actividad.CalcularCostoFinal(r.Huesped) == 0)
+                {
+                    <td>Actividad Gratuita</td>
+                }
+                else
+                {
+                    <td>@r.Actividad.CalcularCostoFinal(r.Huesped) dólares</td>
+                }
+
+                <td>@r.Actividad.MostrarLugarOProveedor()</td>
+                <td>@r.FechaReserva</td>
+                <td>@r.EstadoReserva</td>
+               
+            }
+        </tr>
+    }
+    
+</table>
+

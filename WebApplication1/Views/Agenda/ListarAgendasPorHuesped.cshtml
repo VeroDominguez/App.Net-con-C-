@@ -1,0 +1,96 @@
+﻿@using Dominio.Models
+@model List<Dominio.Models.Reserva>
+
+<h1>Buscar Agendas de un Huésped</h1>
+
+<h2>Ingrese los datos del Huésped</h2>
+<form method="post">
+    <label>Tipo de Documento</label>
+    <select name="tipoDoc">
+        <option>CI</option>
+        <option>Pasaporte</option>
+        <option>Otros</option>
+    </select>
+    <br />
+
+    <label>Número de Documento</label>
+    <input type="text" name="numDoc" />
+
+    <input type="submit" value="Buscar" />
+</form>
+<br />
+<p>@ViewBag.msg</p>
+<p>@ViewBag.msgSinAgendaHuesped</p>
+
+<table class="table">
+    <tr>
+        <th>Nombre Huésped</th>
+        <th>Nombre Actividad</th>
+        <th>Fecha de la actividad</th>
+        <th>Lugar</th>
+        <th>Costo final</th>
+        <th>Nombre Proveedor</th>
+        <th>Fecha de la agenda</th>
+        <th>Estado de la agenda</th>
+        <th>---</th>
+    </tr>
+
+    @if (Model != null && Model.Count != 0)
+    {
+        @foreach (Reserva r in Model)
+        {
+            <tr>
+                <td>@r.Huesped.Nombre @r.Huesped.Apellido</td>
+                <td>@r.Actividad.Nombre</td>
+                <td>@r.Actividad.Fecha.ToShortDateString()</td>
+
+
+                @if (r.Actividad.GetTipo() == "OrgHostal")
+                {
+
+                    <td>@r.Actividad.MostrarLugarOProveedor()</td>
+
+                    @if (r.Actividad.CalcularCostoFinal(r.Huesped) == 0)
+                    {
+                        <td>Actividad Gratuita</td>
+                    }
+                    else
+                    {
+                        <td>@r.Actividad.CalcularCostoFinal(r.Huesped) dólares</td>
+                    }
+
+                    <td>---</td>
+                    <td>@r.FechaReserva</td>
+                    <td>@r.EstadoReserva</td>
+
+                    @if (r.EstadoReserva != "CONFIRMADA")
+                    {
+                        <td>@Html.ActionLink("Confirmar", "Edit", "Agenda", new {id = r.Id})</td>
+                    }
+                }
+                else
+                {
+                    <td>---</td>
+
+                    @if (r.Actividad.CalcularCostoFinal(r.Huesped) == 0)
+                    {
+                        <td>Actividad Gratuita</td>
+                    }
+                    else
+                    {
+                        <td>@r.Actividad.CalcularCostoFinal(r.Huesped) dólares</td>
+                    }
+
+                    <td>@r.Actividad.MostrarLugarOProveedor()</td>
+                    <td>@r.FechaReserva</td>
+                    <td>@r.EstadoReserva</td>
+
+                    @if (r.EstadoReserva != "CONFIRMADA")
+                    {
+                        <td>@Html.ActionLink("Confirmar", "Edit", "Agenda", new {id = r.Id})</td>
+                    }
+                }
+            </tr>
+        }
+    }
+</table>

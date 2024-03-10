@@ -1,0 +1,56 @@
+﻿@using Dominio.Models
+@model Dominio.Models.Huesped
+
+@* FORMULARIO PARA PEDIR LOS DATOS DEL HUESPED. 
+NOTA: EL NIVEL LO PONEMOS NOSOTRAS EN UN INPUT CON ATRIBUTO HIDDEN*@
+
+<form method="post">
+    <label>Nombre: </label>
+    <input type="text" asp-for="Nombre" required/><br />
+
+    <label>Apellido: </label>
+    <input type="text" asp-for="Apellido" required />
+    <br />
+
+    <label>Seleccione el tipo de documento: </label>
+    <select asp-for="TipoDocumento" required>
+        <option>CI</option>
+        <option>Pasaporte</option>
+        <option>Otros</option>
+    </select>
+    <br />
+
+    <label>Ingrese el número de documento</label>
+    <input type="text" asp-for="NumDocumento" required />
+    <br />
+
+    <label>Seleccione entre las habitaciones disponibles: </label>
+    <select asp-for="Habitacion" required>
+        <option>2A</option>
+        <option>4B</option>
+        <option>4C</option>
+        <option>4D</option>
+        <option>5A</option>
+        <option>5C</option>
+    </select>
+    <br />
+
+    <label>Ingrese su fecha de nacimiento: </label>
+    <input type="date" asp-for="FechaNacimiento" required />
+    <br />
+
+
+    <input type="number" asp-for="Nivel" value=1 hidden />
+    <br />
+
+    <label>Email: </label>
+    <input type="email" asp-for="Email" required />
+    <br />
+
+    <label>Contraseña</label>
+    <input type="password" asp-for="Contrasenia" required />
+    <br />
+
+    <input type="submit" value="Ingresar" />
+</form>
+@ViewBag.Msg

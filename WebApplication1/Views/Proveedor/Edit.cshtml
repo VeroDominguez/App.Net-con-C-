@@ -1,0 +1,25 @@
+﻿@using Dominio.Models
+@model Dominio.Models.Proveedor
+
+<h1>Asignar Descuento a proveedor</h1>
+
+<form method="post">
+    <input tipe="number" asp-for="Id" hidden/>
+
+    <label>Nombre: </label>
+    <input type="text" asp-for="Nombre" readonly><br />
+
+    <label>Modifique el descuento: </label>
+    <input type="number" asp-for="ValorDescuento" />
+    <br />
+
+    <input type="checkbox" required />
+    <label>Estoy seguro/a del descuento a asignar</label>
+    <br />
+    <br />
+
+    <input type="submit" value="Asignar" />
+</form>
+@ViewBag.Msg
+
+

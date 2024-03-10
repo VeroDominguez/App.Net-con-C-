@@ -1,0 +1,14 @@
+﻿@using Dominio.Models;
+@model Huesped;
+@{
+    ViewData["Title"] = "DetallesHuesped";
+}
+
+<h1>Detalles Huesped</h1><br />
+<p>Nombre: @Model.Nombre</p>
+<p>Apellido: @Model.Apellido</p>
+<p>Email: @Model.Email</p>
+<p>Tipo de Documento: @Model.TipoDocumento</p>
+<p>Número de Documento: @Model.NumDocumento</p>
+<p>Habitación Asignada: @Model.Habitacion</p>
+<p>Nivel de Fidelización: @Model.Nivel</p>
